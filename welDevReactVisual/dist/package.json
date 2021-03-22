@@ -8,7 +8,7 @@
             "file": "resources/welDevReactVisual1A4B9C17E6914119B3E74B5F3EC46009.pbiviz.json"
         }
     ],
-    "visual": {"name":"welDevReactVisual","displayName":"Awesome React Visual","guid":"welDevReactVisual1A4B9C17E6914119B3E74B5F3EC46009","visualClassName":"Visual","version":"1.0.0","description":"Built on Welcome, developer!","supportUrl":"https://www.welcomedeveloper.com/","gitHubUrl":"https://github.com/danilocastronz/welcome-developer/tree/master/posts/powerbi-react-d3js-pt2"},
+    "visual": {"name":"welDevReactVisual","displayName":"Awesome React Visual","guid":"welDevReactVisual1A4B9C17E6914119B3E74B5F3EC46009","visualClassName":"Visual","version":"1.0.0","description":"Built on Welcome, developer!","supportUrl":"https://www.welcomedeveloper.com/","gitHubUrl":"https://github.com/danilocastronz/weldev-post-powerbi-react-d3-two"},
     "metadata": {
         "pbivizjson": {
             "resourceId": "rId0"
